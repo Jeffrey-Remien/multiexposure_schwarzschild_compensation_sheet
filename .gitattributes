@@ -1,1 +1,2 @@
 *.xlsx diff=zip
+*.xlsm diff=zip
